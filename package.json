@@ -1,8 +1,8 @@
 {
+  "homepage": "http://flovelace.github.io/photo-portfolio/",
   "name": "photo-portfolio",
   "version": "0.1.0",
-  "private": true,
-  "homepage": "https://flovelace.github.io/photo-portfolio/",
+  "private": false,
   "dependencies": {
     "@testing-library/user-event": "^13.5.0",
     "react": "^17.0.2",
